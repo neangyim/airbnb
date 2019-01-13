@@ -1,0 +1,82 @@
+body{
+
+	background:url(background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+h1{
+
+	color: blue;
+}
+
+a{
+	color: red;
+}
+
+img{
+
+	width: 60px;
+}
+
+.form-control{
+
+
+	width: 170px;
+	height: 70px;
+
+
+
+}
+
+p{
+	color: blue;
+	
+}
+
+.src{
+
+	width: 2000px;
+	height: 200px;
+	margin: 70px;
+	font-size: 1040px;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
